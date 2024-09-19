@@ -1,5 +1,6 @@
 import random
 import string
+import pytest
 
 def generate_password(length=12):
     """Генерация случайного пароля заданной длины."""
